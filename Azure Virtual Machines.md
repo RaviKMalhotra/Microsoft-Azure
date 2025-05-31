@@ -9,7 +9,14 @@
 | 📜Topic             | Overview of Azure Virtual Machines (🖥️)      |
 
 # Overview of Azure Cloud Compute Services
-💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺  
+💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺 
+
+## 01. Virtual Machines Documentation link - https://learn.microsoft.com/en-us/azure/virtual-machines/
+## 02. Compare virtual-machine based compute products - https://learn.microsoft.com/en-us/azure/virtual-machines/compare-compute-products?tabs=prodcompcost
+## 03. Learn how to create a linux VM
+## 04. Learn how to create a Windows VM
+## 05. Learn how to create a Virtual Machine Scale Set
+
 
 - Compute services are the most critical and highly used components in any cloud platform.
 - Compute instances are also referred as workloads, as you can host any website or any custom application on top of a compute instances.
