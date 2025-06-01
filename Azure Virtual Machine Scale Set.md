@@ -18,6 +18,21 @@
   - Provides high availability and application resiliency by distributing VMs across availability zones or fault domains
   - Allows your application to automatically scale as resource demand changes
   - Works at large-scale
+ 
+
+ # Orchestration Modes
+ - Scale set orchestration modes allow you to have greater control over how virtual machine instances are managed by the scale set.
+ - The orchestration mode is defined when you create the scale set and cannot be changed or updated later.
+
+
+# Scale Set with Flexible Orchestration
+- Optimized for high availability and scalability with identical or mixed virtual machine types.
+- Flexible Orchestration is the reccomended orchestration mode when deploying scale sets in Azure.
+- offering enhanced availability guarantees (up to 1,000 VMs).
+- VMs are automatically distributed across Availability Zone or fault domains within a region ensuring resilience for both stateless and stateful applications.
+- it allows for dynamic instance mixing, enabling the use of different VM types, as well as a combination of Spot and on-demand instances, for optimized performance and cost efficiency.
+- Flexible orchestration supports all key scale set features such as **metrics-based autoscaling**, **instance protection**, **standby pools**, **upgrade policies**, and more.
+
 
 ## 1. GCP App Engine
 
