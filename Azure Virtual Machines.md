@@ -16,8 +16,19 @@
 ## 03. Learn how to create a linux VM
 ## 04. Learn how to create a Windows VM
 ## 05. Learn how to create a Virtual Machine Scale Set
+#
 
 
+
+# Lab: Create a Linux VM
+# Lab: Create a Windows VM
+# Lab: Create a Virtual Machine Scale Set
+# Lab: Create a VM - Static Public IP
+Create a VM - Static Private IP
+Create a VM - Multiple IPs
+Create a VM - Accelerated Networking
+Use Multiple NICs
+ 
 - Compute services are the most critical and highly used components in any cloud platform.
 - Compute instances are also referred as workloads, as you can host any website or any custom application on top of a compute instances.
 - Compute services in GCP are offered as both IaaS and PaaS types.
@@ -192,13 +203,6 @@ Primary Use Cases: Deploying microservices, APIs, and web applications.
 
 
 ## Conclusion & Final Thoughts
-- Compute Engine → For full VM control.
-- GKE → For Kubernetes-based applications.
-- App Engine → For fully managed web applications.
-- Cloud Functions → For event-driven, serverless workloads.
-- Cloud Run → For serverless containers.
-- Bare Metal Solution → For specialized workloads (e.g., Oracle).
-- Anthos → For hybrid/multi-cloud application management.
 
 
   ### Ravi K Malhotra
