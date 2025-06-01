@@ -25,7 +25,7 @@
  - The orchestration mode is defined when you create the scale set and cannot be changed or updated later.
 
 
-# Scale Set with Flexible Orchestration
+# Scale Sets with Flexible Orchestration
 - Optimized for high availability and scalability with identical or mixed virtual machine types.
 - Flexible Orchestration is the reccomended orchestration mode when deploying scale sets in Azure.
 - offering enhanced availability guarantees (up to 1,000 VMs).
@@ -33,7 +33,11 @@
 - it allows for dynamic instance mixing, enabling the use of different VM types, as well as a combination of Spot and on-demand instances, for optimized performance and cost efficiency.
 - Flexible orchestration supports all key scale set features such as **metrics-based autoscaling**, **instance protection**, **standby pools**, **upgrade policies**, and more.
 
-
+# Scalet Sets with Uniform Orchestration
+- Uniform Orchestration mode is optimized and ideal for large-scale workloads with identical virtual machine instances.
+- Uniform orchestration ensures consistency by using a predefined virtual machine profile to deploy identical instances within a scale set.
+- While some customization of individual VMs is possible, Uniform orchestration primarily manages VMs as a group.
+- Uniform orchestration supports key scale set features, including **metrics-based autoscaling**, **instance protection**, and **automatic OS upgrades**.
 ## 1. GCP App Engine
 
 - Google App Engine is one of the earliest cloud computing services from Google.
