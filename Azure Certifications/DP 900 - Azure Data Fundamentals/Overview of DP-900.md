@@ -8,10 +8,10 @@
 | 🐱 Github profile   | https://github.com/RaviKMalhotra            | 
 | 📜Topic             | Overview of DP-900 Azure Data Fundamental Certification (🖥️) |
 
-# Overview of Azure Certification - AZ900 Azure Data Fundamental 
+# Overview of Azure Certification - DP-900 Azure Data Fundamental
 💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺 
 
-# Microsoft Learn Official Page for AZ-900
+# Microsoft Learn Official Page for DP-900
 
 - Link of the page: https
 - //learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification
