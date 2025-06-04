@@ -18,4 +18,12 @@
 
 # Azure Core Architectural Concepts
 
-##
+## Describe Azure Regions, Region Pairs, and Sovereign Regions
+
+## Describe Availability Zones in Azure
+
+## Describe Azure Resources and Resource Groups
+
+## Describe Azure Subscriptions
+
+## Describe Management Groups in Azure
