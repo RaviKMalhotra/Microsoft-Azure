@@ -7,9 +7,9 @@
 | 🌐 Website          | www.ravikmalhotra.com                       | 
 | 🚀 Linkedin Profile | https://www.linkedin.com/in/ravikmalhotra/  | 
 | 🐱 Github profile   | https://github.com/RaviKMalhotra            | 
-| 📜Topic             | Overview of Azure Virtual Machines (🖥️)      |
+| 📜Topic             | Overview of AZ-104 Azure Administrator Associate Certification (🖥️)      |
 
-# Overview of Azure Certification - AZ900
+# Overview of Azure Certification - AZ-104 Azure Administrator Associate
 💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺 
 
 # Microsoft Learn Official Page for AZ-900
