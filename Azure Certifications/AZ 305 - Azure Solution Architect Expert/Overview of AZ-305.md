@@ -6,9 +6,9 @@
 | 🌐 Website          | www.ravikmalhotra.com                       | 
 | 🚀 Linkedin Profile | https://www.linkedin.com/in/ravikmalhotra/  | 
 | 🐱 Github profile   | https://github.com/RaviKMalhotra            | 
-| 📜Topic             | Overview of Azure Virtual Machines (🖥️)      |
+| 📜Topic             | Overview of AZ-305 Azure Solution Architect Expert Certification (🖥️)      |
 
-# Overview of Azure Certification - AZ900
+# Overview of Azure Certification - AZ-305 Azure Solution Architect Expert
 💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺 
 
 # Microsoft Learn Official Page for AZ-900
