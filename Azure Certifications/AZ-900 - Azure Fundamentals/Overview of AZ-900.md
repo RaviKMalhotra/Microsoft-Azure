@@ -1,12 +1,14 @@
 ![image](https://github.com/user-attachments/assets/da5df687-7c71-492f-ac84-3f148cb0440e)
- 
-| Personal            | Details                                     | 
-|---------------------|---------------------------------------------|
-| 👤✍️ Author        | Ravi K Malhotra -                           |  
-| 🌐 Website          | www.ravikmalhotra.com                       | 
-| 🚀 Linkedin Profile | https://www.linkedin.com/in/ravikmalhotra/  | 
-| 🐱 Github profile   | https://github.com/RaviKMalhotra            | 
-| 📜Topic             | Overview of AZ-900 Azure Fundamental Certification (🖥️) |
+
+ _________________________________________________________________________________
+| Personal            | Details                                                   | 
+|---------------------|---------------------------------------------------------- |
+| 👤✍️ Author        | Ravi K Malhotra -                                         |  
+| 🌐 Website          | www.ravikmalhotra.com                                     | 
+| 🚀 Linkedin Profile | https://www.linkedin.com/in/ravikmalhotra/                | 
+| 🐱 Github profile   | https://github.com/RaviKMalhotra                          | 
+| 📜Topic             | Overview of AZ-900 Azure Fundamental Certification (🖥️)  |
+___________________________________________________________________________________
 
 # Overview of Azure Certification - AZ900 Azure Fundamentals
 💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺 
