@@ -1,4 +1,4 @@
- ![image](https://github.com/user-attachments/assets/da5df687-7c71-492f-ac84-3f148cb0440e)
+![image](https://github.com/user-attachments/assets/da5df687-7c71-492f-ac84-3f148cb0440e)
  
 | Personal            | Details                                     | 
 |---------------------|---------------------------------------------|
@@ -11,13 +11,12 @@
 # Overview of Azure Certification - AZ900
 💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺 
 
-- Azure Virtual Machine Scale Sets let you create and manage a group of load balanced virtual machines (VM) instances.
-- The number of VM instances can automatically increase or decrease **in response to demand or a defined schedule**.
-- Scale sets provide the following key benefits:
-  - Easy to create and manage multiple VMs
-  - Provides high availability and application resiliency by distributing VMs across availability zones or fault domains
-  - Allows your application to automatically scale as resource demand changes
-  - Works at large-scale
+# Microsoft Learn Official Page for AZ-900
+
+- Link of the page: https
+- //learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification
+- Link of the AZ-900 Study Guide
+- https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900 
  
 
  # Orchestration Modes
