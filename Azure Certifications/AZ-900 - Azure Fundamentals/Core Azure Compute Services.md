@@ -68,7 +68,17 @@ There are multiple options to manage the availability of your virtual machines i
   - You can also manage your custom images in one storage account per Azure region,
   - and use them to create hundreds of virtual machines in the same subscription.
   - For more information about Managed Disks, see the Managed Disks Overview.
-  - 
+
+
+  - Azure managed disks are block-level storage volumes managed by Azure and used with Azure Virtual Machines.
+  - Managed disks are like physical disks in an on-premises server, but they're virtualized.
+  - With managed disks, you only have to specify the disk type and the disk size, then provision the disk.
+  - After you provision the disk, Azure handles the rest.
+ 
+  - There are five types of managed disks: Ultra Disks, Premium solid-state drives (SSD) v2, Premium SSD, Standard SSD, and Standard hard disk drives (HDD).
+  - To learn about each disk type and decide which fits your needs, see Azure managed disk types.
+ 
+  - An alternative is to use Azure Elastic SAN as the storage for your virtual machine (VM). With Elastic SAN, you can consolidate the storage for all your workloads into a single storage back end. Elastic SAN can be more cost effective if you have many large-scale, I/O-intensive workloads and top-tier databases. To learn more, see What is Azure Elastic SAN?.
   # Demo # 1 - Basic Tutorial - How to Create a new Virtual Machine using Azure Portal
   
    
