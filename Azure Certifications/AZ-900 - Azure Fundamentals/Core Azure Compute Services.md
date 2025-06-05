@@ -13,5 +13,12 @@
 - Azure Service Fabric:
 - Azure Batch:
 - Azure VMWare Solution:
-- 
+
+# Understand different Hosting Models for Compute Services
+
+- Infrastructure-as-a-service (IaaS)
+- Platform-as-a-service (PaaS)
+- Function-as-a-Service (FaaS)
+
+# Microservices Compute Option
 - 
