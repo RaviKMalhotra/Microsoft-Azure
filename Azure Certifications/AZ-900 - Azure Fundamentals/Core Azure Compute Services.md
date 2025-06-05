@@ -21,4 +21,10 @@
 - Function-as-a-Service (FaaS)
 
 # Microservices Compute Option
-- 
+- https://learn.microsoft.com/en-us/azure/architecture/microservices/design/compute-options
+- The term compute refers to the hosting model for the computing resources that your application runs on.
+- For a microservices architecture, the following approaches are popular:
+  - Deploy microservices on dedicated compute platforms, typically by using a microservice orchestrator.
+  - Deploy microservices on a serverless platform.
+  - 
+
