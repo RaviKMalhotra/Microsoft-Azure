@@ -1,6 +1,7 @@
 # Core Azure Compute Services and Products
 
 ## What is Compute Service
+- Remember that not all VM types are available in all regions, so therefore select the VM type and the region carefully. 
 
 ## Different Compute Services and Products offered by Azure
 - https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
@@ -32,5 +33,9 @@
     - Container Apps
     - Service Fabric
     - Red Hat OpenShift
-      
+
+
+  # Demo # 1 -Creating a new Virtual Machine using Windows as an Operating System
+  
+   
 
