@@ -3,6 +3,7 @@
 ## What is Compute Service
 
 ## Different Compute Services and Products offered by Azure
+- https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
 - **Azure Virtual Machines:**
 - Azure App Service:
 - Azure Function:
@@ -26,5 +27,10 @@
 - For a microservices architecture, the following approaches are popular:
   - Deploy microservices on dedicated compute platforms, typically by using a microservice orchestrator.
   - Deploy microservices on a serverless platform.
-  - 
+  - Following are teh Microservices compute options and products offered by Azure:
+    - Azure Kubernetes Service (AKS)
+    - Container Apps
+    - Service Fabric
+    - Red Hat OpenShift
+      
 
