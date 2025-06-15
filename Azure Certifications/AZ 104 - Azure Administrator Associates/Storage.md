@@ -71,5 +71,7 @@ Next, you will find out how to create storage accounts and manage blobs using th
   - There is a price difference between Hot and Cool Access tier.
   - 'Allow cross-tenant replication' option is not selected by default.
   - 'Network Access' default option is set to - Enable public access from all networks. you can change this to other options such as
-  - other otions are 'Enable public access from selected virtual networks and IP addresses'.
-
+  - other otions are 'Enable public access from selected virtual networks and IP addresses' and select the desired virtual network.
+  - and 'Disable public access and anable private access', and create and select the private endpoint.
+  - 
+  - 
