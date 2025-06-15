@@ -45,4 +45,6 @@
 - Suppose there is a component 'component # 1' and second component 'component # 2', and both components are running fine.
 - App component # 1 can drop messages in the queue storage account, and App component # 2 can read that message and process it.
 - So, it's a centralized storage solution for inter-application component messaging.
+
+# PPT Storage Account Tables
 - 
