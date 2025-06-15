@@ -106,3 +106,5 @@ Next, you will find out how to create storage accounts and manage blobs using th
 - You can provide a shared access signature to clients who should not be trusted with your storage accountkey but whome you wish to delegate access to certain
 - storage account resources.
 - By distributing a shared access signature URI to these clients, you grant them access to a resource for specified duration of time.
+- An accoun-level SAS can delegate access to multiple storage services (i.e. blob, files, queue, tables)
+- Note that stored access policies are currently not supported for an account-level SAS. 
