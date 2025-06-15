@@ -73,5 +73,16 @@ Next, you will find out how to create storage accounts and manage blobs using th
   - 'Network Access' default option is set to - Enable public access from all networks. you can change this to other options such as
   - other otions are 'Enable public access from selected virtual networks and IP addresses' and select the desired virtual network.
   - and 'Disable public access and anable private access', and create and select the private endpoint.
-  - 
+  - There are number of optins in the Data Protection tab
+    - option 'Enable point-in-time restore for containers' option is not selected by default.
+    - option 'Enable soft delete for blobs' option is checked by default with 'Days to retain deleted blobs' is set to 7 days.
+    - option 'Enable soft delete for containers' optino is checked by default with 'Days to retain deleted containers' is set to 7 days.
+    - option 'Enable soft delete for file shares' option is checked by default with 'Days to retain deleted file shares' is set to 7 days.
+    - There are couple of 'Tracking' and 'Access Control' options in the Data Protection tab as well.
+    - tracking options 'Enable versioning for blobs' and 'Enable blob change feed' both are not selected by default.
+    - Access Control option 'Enable version-level immutability support' option is not selected by default.
+  - There are multiple options in the 'Encryption' tab
+    - Encryption type is set to 'Microsoft-managed keys (MMK) instead of Customer-managed keys(CMK)
+    - option 'Enable support for customer-managed keys' is set to 'Blobs and files only', instead of the option 'All service types (blobs, files, tables, and queues).
+    -  
   - 
