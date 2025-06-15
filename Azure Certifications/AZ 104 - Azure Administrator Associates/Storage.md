@@ -84,5 +84,19 @@ Next, you will find out how to create storage accounts and manage blobs using th
   - There are multiple options in the 'Encryption' tab
     - Encryption type is set to 'Microsoft-managed keys (MMK) instead of Customer-managed keys(CMK)
     - option 'Enable support for customer-managed keys' is set to 'Blobs and files only', instead of the option 'All service types (blobs, files, tables, and queues).
+    -  option 'Enable infrastructure encryption' is not selected by default.
     -  
-  - 
+  - Next tabs are Tags and Review.
+- Once ths storage account is created, click on it, it will take you into the storage account
+- if you scroll down, you will see options to create blob, containers, files shares, queues, and tables.
+
+## PPT Azure Storage Access Keys and Shared Access Signature
+- when you go inside the storage account you just created, you see a tab named 'Access Keys'
+- Storage account access key provide full read/write access to everything in the storage account.
+- if you want to limit that full read/write access, then you need to look for 'Shared Access Signature' option instead of Access Keys.
+- Access keys authenticate your application's requests to the storage account. Keep your keys in a secure location like Azure Key Vualt, and replace them often
+- with new keys. 
+- Every storage account has 2 access keys.
+- 2 keys allow you to replace one while still using the other one.
+- Each key has 2 important parameters - 'Key' and 'Connection strings'
+- Stor 
