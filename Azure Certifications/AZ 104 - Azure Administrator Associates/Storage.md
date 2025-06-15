@@ -38,4 +38,11 @@
 - Shared folder access from on--premises or in the cloud over Transmission Control Protocol (TCP) port 445
 - OS must support at least Server Message Block (SMB) v3.0
 - Accessible via drive mappings and mount points.
+
+# PPT Storage Account Queues
+- Storage Account Queues would be of interest to software developers.
+- Support there is an application, and this application has multiple components which need to communicate with each other via messages.
+- Suppose there is a component 'component # 1' and second component 'component # 2', and both components are running fine.
+- App component # 1 can drop messages in the queue storage account, and App component # 2 can read that message and process it.
+- So, it's a centralized storage solution for inter-application component messaging.
 - 
