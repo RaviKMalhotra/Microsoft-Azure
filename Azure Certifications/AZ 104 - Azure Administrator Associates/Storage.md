@@ -100,3 +100,9 @@ Next, you will find out how to create storage accounts and manage blobs using th
 - 2 keys allow you to replace one while still using the other one.
 - Each key has 2 important parameters - 'Key' and 'Connection strings'
 - Stor 
+
+## PPT Shared Access Signature
+- A shared access signature is a URI that grans restricted access rights to Azure Storage resources.
+- You can provide a shared access signature to clients who should not be trusted with your storage accountkey but whome you wish to delegate access to certain
+- storage account resources.
+- By distributing a shared access signature URI to these clients, you grant them access to a resource for specified duration of time.
