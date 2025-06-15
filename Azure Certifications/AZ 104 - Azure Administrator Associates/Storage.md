@@ -47,4 +47,6 @@
 - So, it's a centralized storage solution for inter-application component messaging.
 
 # PPT Storage Account Tables
+- These are NoSQL-based key and value pairs.
+- It uses an unstructured schema, unlike a relational database which strictly defines field types, data types, the amount of data that can be put into it, and so on.
 - 
